@@ -1,6 +1,6 @@
 name: Thanatopia
 favicon: null
-layout_spectrum: 0.520578361582011
+layout_spectrum: 0.99271
 typography_spectrum: 0.790088898036629
 title: News from Dimmortality
 cta:
@@ -23,7 +23,7 @@ color:
     - '#400000'
     - '#d1d0d0'
   brandStrength: 1
-  lightness: 0.3903610238339752
-  saturation: 0.696245496859774
-  rhythmicContrast: 0.2956528321374208
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
